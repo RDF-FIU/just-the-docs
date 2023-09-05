@@ -6,7 +6,7 @@ has_children: false
 permalink: /docs/technologies/leadcnc
 ---
 
-# Bantam Tools Desktop CNC
+# OpenBuilds LEAD CNC 1010
 
 ## Location
 Main Lab, PCA131.
