@@ -10,11 +10,11 @@ permalink: /docs/technologies/ratrig
 Useful information for operation and maintenance of our Rat Rig 50x50x50.
 
 ### Useful Links
-1. [Rat Rig Website](https://ratrig.com/3d-printers/rat-rig-kits/v-core-3.html)
+1. [Rat Rig V-Core3.1 Details](https://docs.ratrig.com/product-details/v-core3-1)
 
 ## Sending print to Rat rig
 ### SUPERSLICER SETUP
-1. Download latest release of Super Slicer [Download](https://ratrig.com/3d-printers/rat-rig-kits/v-core-3.html)
+1. Download latest release of Super Slicer [Download](https://github.com/supermerill/SuperSlicer/releases)
 2. Set up printer as RatRig-V-Core-3-500
 3. Set the filament to PETG / PLA
 4. Go to printer settings and change following fan speeds on expert mode
