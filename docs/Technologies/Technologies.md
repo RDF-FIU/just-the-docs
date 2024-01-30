@@ -37,6 +37,7 @@ RDF machines
 
 ## 3D printers
 
+[![](../../assets/images/bambu.jpg)](technologies/bambu)
 [![](../../assets/images/prusa3.jpg)](technologies/prusa3)
 [![](../../assets/images/formlab2.jpg)](technologies/formlab2)
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
