@@ -47,23 +47,23 @@ permalink: /docs/technologies/KNKForce
    - Plug an Ethernet into the machine and the PC.
    - Run Command Prompt on PC.
    - Type ipconfig and see the results of the Ethernet Cable.
-   Or
+   - Or
    - Connect KNK to WIFI.
    - Connect to the KNK via WIFI.
    - Download Angry IP and search for the device.
-   ### Cutting:
-     - After you get the IP, type it into your search engine.
-     - An Interface for KNK will show up.
-     - Prepare a design from Inkscape for cutting.
+ ## Cutting:
+   - After you get the IP, type it into your search engine.
+   - An Interface for KNK will show up.
+   - Prepare a design from Inkscape for cutting.
        ![A square design](SquareKNK.png)
-     - After designing in Inkscape, follow File>Save As…>[Name of your file] and select .svg.
+   - After designing in Inkscape, follow File>Save As…>[Name of your file] and select .svg.
        ![Saving](FileSaveKNK.png)
-     - Open up the browser again and select "Upload a new SVG pattern:" 
-     - Select your design and wait for the upload. Then return to the main page.
-     - Set up your tool (see instructions below)
-     - Place your mat and material (Check [Article 1.10](https://www.iloveknk.com/0um/Force-with-C3/KNKForce-with-C3-UM.pdf) for the mat details)
-     - Select “Prepare this cutting job”
-     - Adjust the starting position of your KNK using arrows and numpad (Depends on the mat and material size) 
+   - Open up the browser again and select "Upload a new SVG pattern:" 
+   - Select your design and wait for the upload. Then return to the main page.
+   - Set up your tool (see instructions below)
+   - Place your mat and material (Check [Article 1.10](https://www.iloveknk.com/0um/Force-with-C3/KNKForce-with-C3-UM.pdf) for the mat details)
+   - Select “Prepare this cutting job”
+   - Adjust the starting position of your KNK using arrows and numpad (Depends on the mat and material size) 
 
 
  ## Setting up the Cutter/Pen tool:
