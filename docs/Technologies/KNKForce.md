@@ -41,6 +41,20 @@ permalink: /docs/technologies/KNKForce
    - Inkscape is compatible with the device.
    - IP address includes a software with it for cutting.
 
+
+ ## Workflow with Basics: (7/2/2024 Updated With Visuals)
+
+   - Turn the device on and lift the levers up from the back.![Boot](/assets/images/KNKF_1.jpg)
+   - Put the cutting mat under the wheels.
+   - Put levers down.
+   - Wait for the KNK lights to turn white.
+   - Open WIFI settings from the PC and connect knk_force.![Connection](/assets/images/KNKF_2.jpg)
+   - Open a browser and put the IP address.
+   - Upload SVG.
+   - Calibrate the Cutting tool.![Calibration](/assets/images/KNKF_3.jpg)
+   - Put Vinyl Paper on the cutting mat and tape it.
+   - Prepare and send.
+
  ## First Cut:
    - You’ll need an IP Address to start cutting. (The KNK with “Print and Cut sticker” has 10.0.0.1 as an IP).
    - IP address can be obtained by:
