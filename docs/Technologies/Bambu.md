@@ -37,7 +37,7 @@ Official Handbook can be found [Here](https://wiki.bambulab.com/en/x1/manual/x1c
 3. On the top menu bar, click on the cube icon with a + sign to import the model. Supported files include .3mf .stl .stp .step .amf .obj  
 4. Now it's time to select the Printer/Filament/Process presets
    - The printer dropdown menu should only givde you one option, the Bambu Lab X1 Carbon, 4.0mm nozzle
-   - From the pritner dropdown menu, select the appropriate one. If there are filaments already loaded onto the pritner, the presets should come up automatically.
+   - From the printer dropdown menu, select the appropriate one. If there are filaments already loaded onto the printer, the presets should come up automatically.
    - In the process dropdown you are able to choose the layer height. 0.20mm is standard, the smaller the layer height the longer the print will take.  
    ![Presets list](https://github.com/Porti032/labwiki/blob/465fcdca0c962af0ec3bf68d1be9bfb38244e479/assets/images/Bambu%20Presets.png "Presets list")
 5. Click on the green "slice" button at the top right hand to generate a .3mf file.
@@ -59,6 +59,13 @@ detect it automatically and start the loading procedure, when this happens you c
 1. On the touchscreen touch "unload" to begin the process.
    ![Unload Filament](https://github.com/Porti032/labwiki/blob/ca5f576cfebaff735dac2c7f801b984b228ef5d5/assets/images/Bambu_UnloadFilament.png "Unload Filament")
 3. Open the cover of the AMS and gently pull out the filament by hand.  
+
+## Preparing the Bed
+1. Take the bed out and check for any debris. Clean them with the scraper.
+2. Apply the glue and put it back on.
+- Make sure the magnets of the bed align with the printer.
+- If the bed has adhesion problems, make sure you clean it with water and soap, and apply the glue again.
+
 
 ## Features
 
